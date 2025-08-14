@@ -48,7 +48,7 @@ Permite a los jugadores crear **bases flotantes en el aire**, completas y funcio
 ---
 
 ## 💬 Contacto
-- Discord: **Systm#1234**  
+- Discord: **@systm_dev**  
 - GitHub: [https://github.com/Systm-dev/SkyBase-HCF](https://github.com/Systm-dev/SkyBase-HCF)
 
 ---
