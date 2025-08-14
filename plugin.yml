@@ -1,0 +1,12 @@
+name: SkyBaseHCF
+author: SystmDev
+version: 0.01
+api: 5.0.0
+main: SystmDev\Loader
+website: https://github.com/Systm-dev
+discord: @systm_dev
+
+permissions:
+  skybase.command:
+    description: Allows the player to use the /skybase command
+    default: op
